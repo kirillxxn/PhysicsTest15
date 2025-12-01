@@ -220,7 +220,7 @@ export const questions: Question[] = [
 		id: 'EC2E0E',
 		number: 15,
 		text: 'Необходимо экспериментально установить, зависит ли частота колебаний пружинного маятника от жёсткости пружины. Какую из указанных на рисунке пар маятников можно использовать для этой цели?',
-		imageUrl: 'media/question2.png',
+		imageUrl: 'media/question15.png',
 		options: [
 			{ label: 'А и Б', value: 1 },
 			{ label: 'А и В', value: 2 },
@@ -233,7 +233,7 @@ export const questions: Question[] = [
 		id: 'e0620F',
 		number: 16,
 		text: 'На границе воздух-стекло световой луч частично отражается, частично преломляется (см. рисунок). Угол отражения равен примерно',
-		imageUrl: 'media/question15.png',
+		imageUrl: 'media/question16.png',
 		options: [
 			{ label: '10°', value: 1 },
 			{ label: '15°', value: 2 },
@@ -246,7 +246,7 @@ export const questions: Question[] = [
 		id: 'F3C375',
 		number: 17,
 		text: 'В мензурку налита вода (см. рисунок). Укажите значение объёма воды, учитывая, что погрешность измерения равна половине цены деления.',
-		imageUrl: 'media/question16.png',
+		imageUrl: 'media/question17.png',
 		options: [
 			{ label: '70 мл', value: 1 },
 			{ label: '(70 ± 15) мл', value: 2 },
@@ -259,7 +259,7 @@ export const questions: Question[] = [
 		id: '7A8E71',
 		number: 18,
 		text: 'На рисунке изображена мензурка с водой. Цена деления шкалы и предел измерений мензурки равны соответственно',
-		imageUrl: 'media/question10.png',
+		imageUrl: 'media/question18.png',
 		options: [
 			{ label: '10 мл; 100 мл', value: 1 },
 			{ label: '10 мл; 120 мл', value: 2 },
@@ -272,7 +272,7 @@ export const questions: Question[] = [
 		id: '7A3172',
 		number: 19,
 		text: 'Необходимо экспериментально обнаружить зависимость электрического сопротивления круглого угольного стержня от его длины. Какую из указанных на рисунке пар стержней можно использовать для этой цели?',
-		imageUrl: 'media/question17.png',
+		imageUrl: 'media/question19.png',
 		options: [
 			{ label: 'А и Б', value: 1 },
 			{ label: 'А и В', value: 2 },
@@ -285,7 +285,7 @@ export const questions: Question[] = [
 		id: '0DB6B1',
 		number: 20,
 		text: 'Запишите результат измерения электрического напряжения (см. рисунок), учитывая, что погрешность измерения равна цене деления вольтметра.',
-		imageUrl: 'media/question18.png',
+		imageUrl: 'media/question20.png',
 		options: [
 			{ label: '(2,4 ± 0,2) В', value: 1 },
 			{ label: '(2,4 ± 0,1) В', value: 2 },
@@ -298,7 +298,7 @@ export const questions: Question[] = [
 		id: '1DC8B5',
 		number: 21,
 		text: 'Необходимо экспериментально установить, зависит ли частота колебаний пружинного маятника от массы груза. Какую из указанных пар маятников (см. рисунок) можно использовать для этой цели?',
-		imageUrl: 'media/question2.png',
+		imageUrl: 'media/question21.png',
 		options: [
 			{ label: 'В и Г', value: 1 },
 			{ label: 'Б и В', value: 2 },
@@ -311,7 +311,7 @@ export const questions: Question[] = [
 		id: 'A2A1BF',
 		number: 22,
 		text: 'Цена деления и предел измерения динамометра (см. рисунок) равны соответственно',
-		imageUrl: 'media/question19.png',
+		imageUrl: 'media/question22.png',
 		options: [
 			{ label: '1 Н; 4 Н', value: 1 },
 			{ label: '4 Н; 1 Н', value: 2 },
@@ -324,7 +324,7 @@ export const questions: Question[] = [
 		id: '710910',
 		number: 23,
 		text: 'Силу тока в электрической цепи измеряют с помощью амперметра. Укажите цену деления и предел измерения амперметра, шкала которого представлена на рисунке.',
-		imageUrl: 'media/question20.png',
+		imageUrl: 'media/question23.png',
 		options: [
 			{ label: '0,1 А; 2 А', value: 1 },
 			{ label: '0,1 А; 10 А', value: 2 },
@@ -337,7 +337,7 @@ export const questions: Question[] = [
 		id: '2CA11E',
 		number: 24,
 		text: 'Необходимо экспериментально обнаружить зависимость электрического сопротивления круглого проводящего стержня от материала, из которого он изготовлен. Какую из указанных пар стержней (см. рисунок) можно использовать для этой цели?',
-		imageUrl: 'media/question21.png',
+		imageUrl: 'media/question24.png',
 		options: [
 			{ label: 'А и Г', value: 1 },
 			{ label: 'Б и В', value: 2 },
@@ -350,7 +350,7 @@ export const questions: Question[] = [
 		id: '53c316',
 		number: 25,
 		text: 'Для измерения силы тока, проходящего через лампу, и электрического напряжения на лампе ученик собрал электрическую цепь, представленную на рисунке. Какие измерительные приборы включены в электрическую цепь правильно?',
-		imageUrl: 'media/question23.png',
+		imageUrl: 'media/question25.png',
 		options: [
 			{ label: 'Только амперметр', value: 1 },
 			{ label: 'Только вольтметр', value: 2 },
@@ -363,7 +363,7 @@ export const questions: Question[] = [
 		id: '8F911C',
 		number: 26,
 		text: 'Длину бруска измеряют с помощью линейки (см. рисунок). Запишите результат измерения, учитывая, что погрешность измерения равна половине цены деления шкалы линейки.',
-		imageUrl: 'media/question24.png',
+		imageUrl: 'media/question26.png',
 		options: [
 			{ label: '6,5 см', value: 1 },
 			{ label: '(6,5 ± 0,5) см', value: 2 },
@@ -376,7 +376,7 @@ export const questions: Question[] = [
 		id: 'eB7e14',
 		number: 27,
 		text: 'На границе воздух-стекло световой луч частично отражается, частично преломляется (см. рисунок). Угол отражения равен примерно',
-		imageUrl: 'media/question25.png',
+		imageUrl: 'media/question27.png',
 		options: [
 			{ label: '85°', value: 1 },
 			{ label: '60°', value: 2 },
@@ -389,7 +389,7 @@ export const questions: Question[] = [
 		id: '0F5326',
 		number: 28,
 		text: 'Необходимо экспериментально установить, зависит ли частота колебаний математического маятника от массы груза. Какую из указанных пар маятников (см. рисунок) можно использовать для этой цели?',
-		imageUrl: 'media/question26.png',
+		imageUrl: 'media/question28.png',
 		options: [
 			{ label: 'Б и Г', value: 1 },
 			{ label: 'Б и В', value: 2 },
@@ -402,7 +402,7 @@ export const questions: Question[] = [
 		id: 'D22121',
 		number: 29,
 		text: 'Необходимо экспериментально установить зависимость электрического сопротивления проводящего стержня от площади его поперечного сечения. Какую из указанных пар стержней (см. рисунок) можно использовать для этой цели?',
-		imageUrl: 'media/question27.png',
+		imageUrl: 'media/question29.png',
 		options: [
 			{ label: 'А и Б', value: 1 },
 			{ label: 'А и В', value: 2 },
@@ -415,7 +415,7 @@ export const questions: Question[] = [
 		id: '54A42D',
 		number: 30,
 		text: 'На границе воздух-стекло световой луч частично отражается, частично преломляется (см. рисунок). Угол преломления равен примерно',
-		imageUrl: 'media/question28.png',
+		imageUrl: 'media/question30.png',
 		options: [
 			{ label: '80°', value: 1 },
 			{ label: '70°', value: 2 },
@@ -428,7 +428,7 @@ export const questions: Question[] = [
 		id: 'E72221',
 		number: 31,
 		text: 'В мензурку налита вода (см. рисунок). Укажите значение объёма воды, учитывая, что погрешность измерения равна половине цены деления шкалы прибора.',
-		imageUrl: 'media/question29.png',
+		imageUrl: 'media/question31.png',
 		options: [
 			{ label: '60 мл', value: 1 },
 			{ label: '(60 ± 15) мл', value: 2 },
@@ -441,7 +441,7 @@ export const questions: Question[] = [
 		id: '0737D7',
 		number: 32,
 		text: 'Температуру больного измеряют с помощью медицинского термометра. Запишите результат измерения, представленного на рисунке, учитывая, что погрешность измерения равна цене деления термометра.',
-		imageUrl: 'media/question30.png',
+		imageUrl: 'media/question32.png',
 		options: [
 			{ label: '(39 ± 1) °С', value: 1 },
 			{ label: '(39,0 ± 0,5) °С', value: 2 },
@@ -454,7 +454,7 @@ export const questions: Question[] = [
 		id: 'B98eD1',
 		number: 33,
 		text: 'Для измерения силы тока, проходящего через лампу, и электрического напряжения на лампе ученик собрал электрическую цепь, представленную на рисунке. Какие измерительные приборы включены в электрическую цепь правильно?',
-		imageUrl: 'media/question31.png',
+		imageUrl: 'media/question33.png',
 		options: [
 			{ label: 'Только амперметр', value: 1 },
 			{ label: 'Только вольтметр', value: 2 },
@@ -467,7 +467,7 @@ export const questions: Question[] = [
 		id: 'eFc9DF',
 		number: 34,
 		text: 'Ученик собрал электрическую цепь, представленную на рисунке. Какое утверждение верное?',
-		imageUrl: 'media/question32.png',
+		imageUrl: 'media/question34.png',
 		options: [
 			{
 				label:
@@ -496,7 +496,7 @@ export const questions: Question[] = [
 		id: '07935B',
 		number: 35,
 		text: 'Ученик собрал электрическую цепь, представленную на рисунке. Какое утверждение верное?',
-		imageUrl: 'media/question33.png',
+		imageUrl: 'media/question35.png',
 		options: [
 			{
 				label:
@@ -525,7 +525,7 @@ export const questions: Question[] = [
 		id: 'B0995e',
 		number: 36,
 		text: 'Для измерения электрического сопротивления лампы ученик собрал электрическую цепь. Какие измерительные приборы, изображённые на рисунке, включены в электрическую цепь правильно?',
-		imageUrl: 'media/question34.png',
+		imageUrl: 'media/question36.png',
 		options: [
 			{ label: 'Только амперметр', value: 1 },
 			{ label: 'Только вольтметр', value: 2 },
@@ -538,7 +538,7 @@ export const questions: Question[] = [
 		id: '5DD253',
 		number: 37,
 		text: 'Необходимо экспериментально обнаружить зависимость электрического сопротивления круглого угольного стержня от его длины. Какую из указанных на рисунке пар стержней можно использовать для этой цели?',
-		imageUrl: 'media/question35.png',
+		imageUrl: 'media/question37.png',
 		options: [
 			{ label: 'А и Г', value: 1 },
 			{ label: 'Б и В', value: 2 },
@@ -551,7 +551,7 @@ export const questions: Question[] = [
 		id: '62F954',
 		number: 38,
 		text: 'Необходимо экспериментально установить, зависит ли частота колебаний математического маятника от длины нити. Какую из указанных на рисунке пар маятников можно использовать для этой цели?',
-		imageUrl: 'media/question36.png',
+		imageUrl: 'media/question38.png',
 		options: [
 			{ label: 'А и Б', value: 1 },
 			{ label: 'А и В', value: 2 },
@@ -564,7 +564,7 @@ export const questions: Question[] = [
 		id: '613655',
 		number: 39,
 		text: 'Цена деления и предел измерения миллиамперметра (см. рисунок) равны соответственно',
-		imageUrl: 'media/question37.png',
+		imageUrl: 'media/question39.png',
 		options: [
 			{ label: '50 А; 2 А', value: 1 },
 			{ label: '2 мА; 50 мА', value: 2 },
@@ -577,7 +577,7 @@ export const questions: Question[] = [
 		id: '3EC256',
 		number: 40,
 		text: 'Цена деления и предел измерения динамометра (см. рисунок) равны соответственно',
-		imageUrl: 'media/question38.png',
+		imageUrl: 'media/question40.png',
 		options: [
 			{ label: '2 Н; 8 Н', value: 1 },
 			{ label: '8 Н; 1 Н', value: 2 },
@@ -590,7 +590,7 @@ export const questions: Question[] = [
 		id: 'e42056',
 		number: 41,
 		text: 'Ученик собрал электрическую цепь, представленную на рисунке. Какое утверждение верное?',
-		imageUrl: 'media/question39.png',
+		imageUrl: 'media/question41.png',
 		options: [
 			{
 				label:
@@ -619,7 +619,7 @@ export const questions: Question[] = [
 		id: 'F731A7',
 		number: 42,
 		text: 'Длину бруска измеряют с помощью линейки (см. рисунок). Запишите результат измерения, учитывая, что погрешность измерения длины равна цене деления шкалы линейки.',
-		imageUrl: 'media/question40.png',
+		imageUrl: 'media/question42.png',
 		options: [
 			{ label: '7,5 см', value: 1 },
 			{ label: '(7,0 ± 0,5) см', value: 2 },
@@ -632,7 +632,7 @@ export const questions: Question[] = [
 		id: '1F3FA',
 		number: 43,
 		text: 'Прибор на рисунке подключён в режиме амперметра. Запишите результат измерения силы тока с учётом абсолютной погрешности измерения, которая равна цене деления шкалы прибора.',
-		imageUrl: 'media/question41.png',
+		imageUrl: 'media/question43.png',
 		options: [
 			{ label: '(6,5 ± 0,5) А', value: 1 },
 			{ label: '(7,0 ± 0,5) А', value: 2 },
@@ -645,7 +645,7 @@ export const questions: Question[] = [
 		id: 'D128AF',
 		number: 44,
 		text: 'Цена деления и предел измерения миллиамперметра (см. рисунок) равны соответственно',
-		imageUrl: 'media/question42.png',
+		imageUrl: 'media/question44.png',
 		options: [
 			{ label: '25 А; 1 А', value: 1 },
 			{ label: '1 мА; 25 мА', value: 2 },
@@ -658,7 +658,7 @@ export const questions: Question[] = [
 		id: '57D1AB',
 		number: 45,
 		text: 'Ученик собрал электрическую цепь, представленную на рисунке. Какое утверждение верное?',
-		imageUrl: 'media/question43.png',
+		imageUrl: 'media/question45.png',
 		options: [
 			{
 				label:
@@ -687,7 +687,7 @@ export const questions: Question[] = [
 		id: 'FC25C7',
 		number: 46,
 		text: 'Длину бруска измеряют с помощью линейки (см. рисунок). Запишите результат измерения, учитывая, что погрешность измерения равна цене деления шкалы линейки.',
-		imageUrl: 'media/question44.png',
+		imageUrl: 'media/question46.png',
 		options: [
 			{ label: '(4,5 ± 0,5) см', value: 1 },
 			{ label: '(5,5 ± 0,5) см', value: 2 },
@@ -700,7 +700,7 @@ export const questions: Question[] = [
 		id: 'BC70C6',
 		number: 47,
 		text: 'Необходимо экспериментально обнаружить зависимость электрического сопротивления круглого проводящего стержня от материала, из которого он изготовлен. Какую из указанных пар стержней (см. рисунок) можно использовать для этой цели?',
-		imageUrl: 'media/question45.png',
+		imageUrl: 'media/question47.png',
 		options: [
 			{ label: 'А и Г', value: 1 },
 			{ label: 'Б и В', value: 2 },
@@ -713,7 +713,7 @@ export const questions: Question[] = [
 		id: '5ECAC3',
 		number: 48,
 		text: 'Необходимо экспериментально установить, зависит ли период колебаний пружинного маятника от жёсткости пружины. Какую из указанных на рисунке пар маятников можно использовать для этой цели?',
-		imageUrl: 'media/question2.png',
+		imageUrl: 'media/question48.png',
 		options: [
 			{ label: 'Б и Г', value: 1 },
 			{ label: 'В и Г', value: 2 },
@@ -726,7 +726,7 @@ export const questions: Question[] = [
 		id: '8F4AC3',
 		number: 49,
 		text: 'Необходимо экспериментально установить, зависит ли выталкивающая сила от плотности погружённого в жидкость тела. Какой набор цилиндров из алюминия и меди (см. рисунок) можно использовать для этой цели?',
-		imageUrl: 'media/question46.png',
+		imageUrl: 'media/question49.png',
 		options: [
 			{ label: 'только А', value: 1 },
 			{ label: 'только Б', value: 2 },
@@ -739,7 +739,7 @@ export const questions: Question[] = [
 		id: 'FAF596',
 		number: 50,
 		text: 'На рисунках представлены изображения фрагментов двух линеек. Цена деления линеек равна соответственно',
-		imageUrl: 'media/question47.png',
+		imageUrl: 'media/question50.png',
 		options: [
 			{ label: '10 см и 1 мм', value: 1 },
 			{ label: '10 см и 1 см', value: 2 },
@@ -752,7 +752,7 @@ export const questions: Question[] = [
 		id: '09639D',
 		number: 51,
 		text: 'Учащиеся использовали термометр-гигрометр для измерения температуры и влажности в помещении. Запишите результат измерения температуры с учётом абсолютной погрешности измерения, которая равна цене деления шкалы прибора.',
-		imageUrl: 'media/question48.png',
+		imageUrl: 'media/question51.png',
 		options: [
 			{ label: '(25 ± 1) °C', value: 1 },
 			{ label: '(25 ± 2) °C', value: 2 },
@@ -777,7 +777,7 @@ export const questions: Question[] = [
 		id: 'B56AE1',
 		number: 53,
 		text: 'Запишите результат измерения температуры с помощью термометра, изображённого на рисунке, с учётом абсолютной погрешности измерения температуры, которая равна цене деления шкалы прибора.',
-		imageUrl: 'media/question49.png',
+		imageUrl: 'media/question53.png',
 		options: [
 			{ label: '(50 ± 2) °C', value: 1 },
 			{ label: '(45 ± 5) °C', value: 2 },
@@ -790,7 +790,7 @@ export const questions: Question[] = [
 		id: '002B61',
 		number: 54,
 		text: 'Прибор на рисунке подключён в режиме амперметра. Запишите результат измерения силы тока с учётом абсолютной погрешности измерения, которая равна цене деления шкалы прибора.',
-		imageUrl: 'media/question50.png',
+		imageUrl: 'media/question54.png',
 		options: [
 			{ label: '(3,0 ± 0,5) А', value: 1 },
 			{ label: '(3 ± 1) А', value: 2 },
@@ -803,7 +803,7 @@ export const questions: Question[] = [
 		id: '1DB164',
 		number: 55,
 		text: 'Учащиеся использовали термометр-гигрометр для измерения температуры и относительной влажности в помещении. Запишите результат измерения относительной влажности с учётом абсолютной погрешности измерения, которая равна цене деления шкалы прибора.',
-		imageUrl: 'media/question51.png',
+		imageUrl: 'media/question55.png',
 		options: [
 			{ label: '(24 ± 1) %', value: 1 },
 			{ label: '(25 ± 1)%', value: 2 },
@@ -816,7 +816,7 @@ export const questions: Question[] = [
 		id: 'C39468',
 		number: 56,
 		text: 'Прибор на рисунке подключён в режиме вольтметра. Запишите результат измерения напряжения с учётом абсолютной погрешности измерения, которая равна цене деления шкалы прибора.',
-		imageUrl: 'media/question50.png',
+		imageUrl: 'media/question56.png',
 		options: [
 			{ label: '(3,0 ± 0,5) В', value: 1 },
 			{ label: '(3 ± 1) В', value: 2 },
@@ -829,7 +829,7 @@ export const questions: Question[] = [
 		id: '44D638',
 		number: 57,
 		text: 'На рисунке изображена мензурка с водой. Цена деления шкалы и предел измерений мензурки равны соответственно',
-		imageUrl: 'media/question52.png',
+		imageUrl: 'media/question57.png',
 		options: [
 			{ label: '10 мл; 160 мл', value: 1 },
 			{ label: '10 мл; 80 мл', value: 2 },
@@ -842,7 +842,7 @@ export const questions: Question[] = [
 		id: 'B5203C',
 		number: 58,
 		text: 'Цена деления и предел измерения вольтметра (см. рисунок) равны соответственно',
-		imageUrl: 'media/question53.png',
+		imageUrl: 'media/question58.png',
 		options: [
 			{ label: '10 В; 150 В', value: 1 },
 			{ label: '150 В; 50 В', value: 2 },
@@ -855,7 +855,7 @@ export const questions: Question[] = [
 		id: 'D8A136',
 		number: 59,
 		text: 'Необходимо экспериментально обнаружить, зависит ли сила сопротивления, препятствующая движению тела в воздухе, от массы этого тела. Какие из указанных шаров (см. рисунок) можно использовать?',
-		imageUrl: 'media/question54.png',
+		imageUrl: 'media/question59.png',
 		options: [
 			{ label: 'А и Б', value: 1 },
 			{ label: 'А и В', value: 2 },
@@ -868,7 +868,7 @@ export const questions: Question[] = [
 		id: '3FC18D',
 		number: 60,
 		text: 'Изучая колебания пружинного маятника, ученик собрал из пружин разной жёсткости и грузов одинаковой массы четыре установки (см. рисунок). Какую из указанных пар установок можно использовать для исследования зависимости периода колебаний маятника от массы подвешиваемого груза?',
-		imageUrl: 'media/question13.png',
+		imageUrl: 'media/question60.png',
 		options: [
 			{ label: 'А и Б', value: 1 },
 			{ label: 'А и Г', value: 2 },
@@ -881,7 +881,7 @@ export const questions: Question[] = [
 		id: 'c0D0c6',
 		number: 61,
 		text: 'Запишите результат измерения атмосферного давления с помощью барометра-анероида (см. рисунок), учитывая, что погрешность измерения равна цене деления.',
-		imageUrl: 'media/question55.png',
+		imageUrl: 'media/question61.png',
 		options: [
 			{ label: '(750 ± 5) мм рт. ст.', value: 1 },
 			{ label: '(755 ± 1) мм рт. ст.', value: 2 },
@@ -894,7 +894,7 @@ export const questions: Question[] = [
 		id: 'e2cBcA',
 		number: 62,
 		text: 'Ученик собрал электрическую цепь, представленную на рисунке. Какое утверждение верное?',
-		imageUrl: 'media/question56.png',
+		imageUrl: 'media/question62.png',
 		options: [
 			{
 				label:
@@ -923,7 +923,7 @@ export const questions: Question[] = [
 		id: '0303eB',
 		number: 63,
 		text: 'Ученик собрал электрическую цепь, представленную на рисунке. Какое утверждение верное?',
-		imageUrl: 'media/question57.png',
+		imageUrl: 'media/question63.png',
 		options: [
 			{
 				label:
@@ -950,7 +950,7 @@ export const questions: Question[] = [
 		id: 'Be4Fe5',
 		number: 64,
 		text: 'На границе воздух-стекло световой луч частично отражается, частично преломляется (см. рисунок). Угол отражения примерно равен',
-		imageUrl: 'media/question1.png',
+		imageUrl: 'media/question64.png',
 		options: [
 			{ label: '20°', value: 1 },
 			{ label: '40°', value: 2 },
@@ -963,7 +963,7 @@ export const questions: Question[] = [
 		id: '5193e6',
 		number: 65,
 		text: 'Для измерения силы тока, проходящего через лампу, и электрического напряжения на лампе ученик собрал электрическую цепь, представленную на рисунке. Какие измерительные приборы включены в электрическую цепь правильно?',
-		imageUrl: 'media/question58.png',
+		imageUrl: 'media/question65.png',
 		options: [
 			{ label: 'Только амперметр', value: 1 },
 			{ label: 'Только вольтметр', value: 2 },
@@ -976,7 +976,7 @@ export const questions: Question[] = [
 		id: '0AF964',
 		number: 66,
 		text: 'На границе воздух-стекло световой луч частично отражается, частично преломляется (см. рисунок). Угол преломления равен примерно',
-		imageUrl: 'media/question59.png',
+		imageUrl: 'media/question66.png',
 		options: [
 			{ label: '30°', value: 1 },
 			{ label: '35°', value: 2 },
@@ -989,7 +989,7 @@ export const questions: Question[] = [
 		id: '59526D',
 		number: 67,
 		text: 'Ученик собрал электрическую цепь, представленную на рисунке. Какое утверждение верное?',
-		imageUrl: 'media/question60.png',
+		imageUrl: 'media/question67.png',
 		options: [
 			{
 				label:
@@ -1018,7 +1018,7 @@ export const questions: Question[] = [
 		id: '33A860',
 		number: 68,
 		text: 'На границе воздух-стекло световой луч частично отражается, частично преломляется (см. рисунок). Угол отражения равен примерно',
-		imageUrl: 'media/question61.png',
+		imageUrl: 'media/question68.png',
 		options: [
 			{ label: '30°', value: 1 },
 			{ label: '35°', value: 2 },
@@ -1031,7 +1031,7 @@ export const questions: Question[] = [
 		id: 'cD6F35',
 		number: 69,
 		text: 'К пружинному динамометру подвесили груз (см. рисунок). Укажите, чему равен вес груза, с учетом того, что погрешность измерения равна половине цены деления шкалы прибора.',
-		imageUrl: 'media/question62.png',
+		imageUrl: 'media/question69.png',
 		options: [
 			{ label: '4,8 Н', value: 1 },
 			{ label: '(4,8±0,05) Н', value: 2 },
@@ -1044,7 +1044,7 @@ export const questions: Question[] = [
 		id: 'ee9631',
 		number: 70,
 		text: 'Ученик собрал электрическую цепь, представленную на рисунке. Какое утверждение верное?',
-		imageUrl: 'media/question63.png',
+		imageUrl: 'media/question70.png',
 		options: [
 			{
 				label:
@@ -1073,7 +1073,7 @@ export const questions: Question[] = [
 		id: 'B6FB83',
 		number: 71,
 		text: 'На границе воздух-стекло световой луч частично отражается, частично преломляется (см. рисунок). Угол преломления равен примерно',
-		imageUrl: 'media/question64.png',
+		imageUrl: 'media/question71.png',
 		options: [
 			{ label: '10°', value: 1 },
 			{ label: '15°', value: 2 },
@@ -1086,7 +1086,7 @@ export const questions: Question[] = [
 		id: '7D77FF',
 		number: 72,
 		text: 'Необходимо экспериментально обнаружить, зависит ли сила сопротивления, препятствующая падению тела в воздухе, от размера этого тела. Какие из указанных шаров можно использовать?',
-		imageUrl: 'media/question65.png',
+		imageUrl: 'media/question72.png',
 		options: [
 			{ label: 'А и Б', value: 1 },
 			{ label: 'А и В', value: 2 },
@@ -1099,7 +1099,7 @@ export const questions: Question[] = [
 		id: '3C0210',
 		number: 73,
 		text: 'Необходимо экспериментально обнаружить, зависит ли сила сопротивления, препятствующая падению тела в воздухе, от размера этого тела. Какие из указанных шаров можно использовать?',
-		imageUrl: 'media/question66.png',
+		imageUrl: 'media/question73.png',
 		options: [
 			{ label: 'А и Б', value: 1 },
 			{ label: 'А и В', value: 2 },
